@@ -1,4 +1,4 @@
-# 👋 Hi, I'm TheCompindium13
+# 👋 Hi, I'm Haidon Cossé
 
 I'm a technical game developer with a focus on **Unity**, **gameplay systems**, **shader development**, and **AI programming**. I enjoy building modular, reusable systems and solving performance challenges in real-time environments.
 
@@ -66,6 +66,7 @@ _A collection of AI exercises and systems in C++._
 ## 📫 Get in Touch
 
 - 🔗 [GitHub Profile](https://github.com/TheCompindium13)
+- 🔗 [Linkedin](www.linkedin.com/in/haidon-cosse-8a5735290)
 - 💬 Reach out via Issues or Discussions on any project
 
 ---
